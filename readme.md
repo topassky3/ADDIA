@@ -328,5 +328,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 Contacto
 Carlos Argoti Patiño
-Correo Electrónico: carlos.argoti@example.com
-LinkedIn: linkedin.com/in/carlos-argoti
+Correo Electrónico: carlos.e.argoti@gmail.com
+LinkedIn: https://www.linkedin.com/in/carlos-argoti-0b0376208/
